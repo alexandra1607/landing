@@ -1,0 +1,13 @@
+@import url(<link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">); 
+
+@import url("componets/container.css");
+
+body(
+font-family: 'Zhi Mang Xing', cursive;
+font-size: 18px;
+)
+h1, h2, h3(
+	font-family: 'Sigmar One', cursive;
+	font-weight: bold;
+	 )
+
